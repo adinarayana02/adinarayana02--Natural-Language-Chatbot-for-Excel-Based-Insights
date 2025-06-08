@@ -19,7 +19,7 @@ This is a Streamlit-based chatbot that allows users to upload Excel or CSV files
 1. Clone the repo:
 
 ```
-git clone https://github.com/DattatrayBodake25/excel-chat-assistant
+git clone https://github.com/adinarayana02/adinarayana02--Natural-Language-Chatbot-for-Excel-Based-Insights
 ```
 
 2. Install dependencies:
