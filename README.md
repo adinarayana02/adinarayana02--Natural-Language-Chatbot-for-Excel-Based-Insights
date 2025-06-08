@@ -1,4 +1,4 @@
-# Excel-Assistant
+# Natural-Language-Chatbot-for-Excel-Based-Insights
 
 ## Overview
 
